@@ -95,3 +95,15 @@ line-height: 62px;
 	width: calc((100% - 72) / 3);
 }
 
+.coffee_img{
+	width: 226px;
+	margin-left: 200px;
+}
+
+.coffee_content{
+	max-width: 536px;
+}
+
+.Coffee .sec_tit{
+	margin-bottom: 25px;
+}
