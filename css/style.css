@@ -107,3 +107,18 @@ line-height: 62px;
 .Coffee .sec_tit{
 	margin-bottom: 25px;
 }
+
+.ingrediants_content{
+	max-width: 450px;
+}
+
+.ingrediants .sec_tit{
+	margin-bottom: 20px;
+}
+.ingrediants_img{
+	max-width: 610px;
+}
+
+.ingrediants_in{
+	align-items: center;
+}
